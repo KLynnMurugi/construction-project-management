@@ -118,6 +118,7 @@ What is a construction foundation?
 Explain the purpose of concrete in construction.
 
 ## Project Structure
+
 construction-management-system/
 │
 ├── admin/                     # Admin dashboard and system modules
