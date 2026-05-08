@@ -1,4 +1,4 @@
-#Construction Management System
+# Construction Management System
 
 A comprehensive PHP and MySQL-based web application developed to streamline construction project operations, employee coordination, and project tracking within construction companies. The system centralizes project management activities, improves communication between teams, and enhances accountability through automated tracking and reporting.
 
