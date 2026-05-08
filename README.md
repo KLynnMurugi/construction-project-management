@@ -148,6 +148,7 @@ Data analytics and predictive reporting
 4. Implementation plan document - https://docs.google.com/document/d/1gG4vwOGCuXeWPGtDAS7EyXO1eeScdbmUr2QuaWMYgrc/edit?usp=sharing
 5. User Manual - https://docs.google.com/document/d/1ab9QBD7pyRUcwHlmwfc9bGanYUo_30qW1L3x4LmLBq0/edit?usp=sharing
 6. Final Report Document - https://docs.google.com/document/d/1ab9QBD7pyRUcwHlmwfc9bGanYUo_30qW1L3x4LmLBq0/edit?usp=sharing
+   (The user manual document and final report document contain screenshots of the project as a guide)
 
 ## Author
 Created by Lynn Murugi Kibuthu
